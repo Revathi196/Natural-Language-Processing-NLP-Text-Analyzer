@@ -1,0 +1,22 @@
+Welcome to the NLP Text Analyzer
+Please enter a text for analysis:
+This is a simple text. This text is meant to demonstrate the functionality of the text analyzer.
+
+Word Frequency Analysis:
+this: 2
+is: 2
+a: 1
+simple: 1
+text: 2
+meant: 1
+to: 1
+demonstrate: 1
+the: 1
+functionality: 1
+of: 1
+analyzer: 1
+
+Sentiment Analysis:
+Polarity: 0.0, Subjectivity: 0.4
+
+Text Summary: This is a simple text. This text is meant to demonstrate the functionality of the text analyzer.
